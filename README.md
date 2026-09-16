@@ -1,6 +1,6 @@
 #Smart file organiser
 
-Apython CLI TOOL that automatically sorts filesin any folder by type and generates an Excel report of all actions. Perfect for cleaning your Downloads, Desktop, or anymessy folder in 1 click.
+A python CLI tool that automatically sorts files in any folder by type and generates an Excel report of all actions. Perfect for cleaning your Downloads, Desktop, or any messy folder in 1 click.
 
 ## Features
 -**Auto Sorting**: Sorts files into folders:Images, Audio, Documents, Videos,Archives, Code, Others
